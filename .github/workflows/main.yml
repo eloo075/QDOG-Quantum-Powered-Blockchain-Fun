@@ -1,1 +1,2 @@
-
+env:
+  NEXT_PUBLIC_BASE_PATH: /QDOG-Quantum-Powered-Blockchain-Fun
