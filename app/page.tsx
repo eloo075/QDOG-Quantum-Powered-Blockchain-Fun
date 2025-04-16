@@ -25,15 +25,6 @@ export default function Home() {
       <div className="cosmic-background" />
       <FallingElements />
       
-      <header className="py-4 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto flex justify-center">
-          <img 
-            src="/images/qdog-1.jpg.jpg" 
-            alt="Website Logo" 
-            className="h-16 w-auto object-contain"
-          />
-        </div>
-      </header>
 
       {/* Hero Section */}
       <section className="relative py-20 px-4 sm:px-6 lg:px-8">
