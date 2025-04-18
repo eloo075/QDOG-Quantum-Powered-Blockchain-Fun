@@ -25,15 +25,6 @@ export default function Home() {
       <div className="cosmic-background" />
       <FallingElements />
       
-      <header className="py-4 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto flex justify-center">
-          <img 
-            src="/images/qdog-1.jpg.jpg" 
-            alt="Website Logo" 
-            className="h-16 w-auto object-contain"
-          />
-        </div>
-      </header>
 
       {/* Hero Section */}
       <section className="relative py-20 px-4 sm:px-6 lg:px-8">
@@ -56,7 +47,7 @@ export default function Home() {
               <Button 
                 className="quantum-button text-lg px-8 py-6 bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600 font-semibold tracking-wide"
               >
-                🎾 Join the Quantum Pack (Waitlist) 🎾
+                🎾 Join the Quantum Revolution (Waitlist) 🎾
               </Button>
             </div>
           </div>
@@ -154,7 +145,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="media-container aspect-square">
               <img 
-                src="/images/qdog-1.jpg.jpg" 
+                src="/images/qdog-1.jpg.jpg"
                 alt="QDOG Design 1" 
                 className="w-full h-full object-cover rounded-lg"
               />
@@ -471,7 +462,7 @@ export default function Home() {
               QAN Platform <ExternalLink className="h-3 w-3" />
             </a>
             <p className="text-sm text-muted-foreground font-light">
-              © 2024 The Quantum Dog (QDOG). Built with qubits, kibble, and infinite zoomies.
+              © 2025 The Quantum Dog (QDOG). Built with qubits, kibble, and infinite zoomies.
             </p>
           </div>
         </div>
